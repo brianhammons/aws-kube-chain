@@ -4,6 +4,10 @@
 *.so
 *.dylib
 
+# Hyperledger samples and bin
+bin/
+fabric-samples/
+
 # Test binary, build with `go test -c`
 *.test
 
